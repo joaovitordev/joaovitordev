@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá Mundo 👋
+
+Meu nome é João Vitor, atualmente estou trabalhando como Engenheiro de Software Front-end e cursando Sistemas para Internet na Faculdade Descomplica.
+Já cursei Técnico em Informática e Técnico em Desenvolvimento de Sistemas na Etec Jardim Angela e também cursei 2 anos e meio de Engenharia de Software na Universidade Cidade de São Paulo (UNICID).
+
+
 
 <!--
 **joaovitordev/joaovitordev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
