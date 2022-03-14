@@ -1,7 +1,7 @@
 ### Olá Mundo 👋
 
 Meu nome é João Vitor, atualmente estou trabalhando como Engenheiro de Software Front-end e cursando Sistemas para Internet na Faculdade Descomplica.
-Já cursei Técnico em Informática e Técnico em Desenvolvimento de Sistemas na Etec Jardim Angela e também cursei 2 anos e meio de Engenharia de Software na Universidade Cidade de São Paulo (UNICID).
+Já cursei Técnico em Informática e Técnico em Desenvolvimento de Sistemas na Etec Jardim Ângela e também cursei 2 anos e meio de Engenharia de Software na Universidade Cidade de São Paulo (UNICID).
 
 
 
